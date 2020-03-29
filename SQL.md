@@ -1,0 +1,1 @@
+## Some shortcuts about SQL
