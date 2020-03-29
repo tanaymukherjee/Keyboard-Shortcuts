@@ -1,0 +1,1 @@
+## Some shortcuts for Tableau
