@@ -1,4 +1,4 @@
-## Some shortcuts about MY SQL
+## Some shortcuts for MY SQL
 
 1. New Model:
 Ctrl + N
